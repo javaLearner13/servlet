@@ -1,0 +1,43 @@
+
+Feb 13, 2023 14:18:34.971 NEW SESSION
+Feb 13, 2023 14:18:34.971 [672:4800:0213/141834.960:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+
+Feb 14, 2023 09:44:31.865 NEW SESSION
+Feb 14, 2023 09:44:31.865 [7772:12628:0214/094431.864:ERROR:device_event_log_impl.cc(218)] [09:44:31.863] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 14, 2023 11:23:18.719 [7772:6820:0214/112318.718:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Feb 14, 2023 11:23:33.702 [7772:6820:0214/112333.702:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Feb 14, 2023 11:23:55.451 [7772:6820:0214/112355.451:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Feb 14, 2023 11:24:57.833 [7772:6820:0214/112457.833:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Feb 14, 2023 11:26:00.710 [7772:6820:0214/112600.710:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Feb 14, 2023 11:26:01.996 [7772:6820:0214/112601.996:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+
+Feb 16, 2023 10:07:33.648 NEW SESSION
+Feb 16, 2023 10:07:33.648 [11484:6880:0216/100733.645:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Feb 16, 2023 10:26:41.974 [11484:6880:0216/102042.436:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Feb 16, 2023 10:26:42.64 [11484:6880:0216/102642.064:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Feb 16, 2023 10:33:07.595 [11484:6880:0216/103307.595:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Feb 16, 2023 10:33:07.662 [11484:6880:0216/103307.661:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Feb 16, 2023 11:32:50.250 [11484:6880:0216/113250.249:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Feb 16, 2023 13:10:05.521 [11484:6880:0216/131005.521:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -1
+
+Feb 20, 2023 13:27:35.517 NEW SESSION
+Feb 20, 2023 13:27:35.517 [7876:8892:0220/132735.514:ERROR:device_event_log_impl.cc(218)] [13:27:35.513] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 20, 2023 14:17:13.959 [7876:8900:0220/141713.959:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+
+Feb 21, 2023 11:53:19.143 NEW SESSION
+Feb 21, 2023 11:53:19.143 [10140:14972:0221/115319.140:ERROR:device_event_log_impl.cc(218)] [11:53:19.139] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Feb 21, 2023 15:04:55.858 NEW SESSION
+Feb 21, 2023 15:04:55.858 [8780:15348:0221/150455.844:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Feb 21, 2023 15:25:51.412 [8780:15348:0221/152551.411:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Feb 21, 2023 15:25:51.539 [8780:15348:0221/152551.538:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Feb 21, 2023 15:26:23.966 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Feb 21, 2023 15:26:33.724 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Feb 21, 2023 15:26:33.894 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Feb 21, 2023 15:29:05.822 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Feb 21, 2023 15:41:58.114 [8780:15348:0221/154158.114:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Feb 21, 2023 15:57:44.355 [8780:15348:0221/155744.355:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Feb 21, 2023 15:59:07.991 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Feb 21, 2023 16:02:11.28 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Feb 21, 2023 16:15:43.352 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Feb 21, 2023 16:32:20.457 [8780:15348:0221/162631.254:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2

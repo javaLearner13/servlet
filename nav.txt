@@ -1,0 +1,10 @@
+forwarding -> pro08 (/first, /second)
+
+
+forwarding:
+1. redirect (pro08.sec01.ex01 - /first /second)
+2. refresh (pro08.sec01.ex02 - /first2 /second2)
+3. location (pro08.sec01.ex03 - /first3 /second3)
+4. dispatch
+
+pro09 - sec03 - ex04 not working

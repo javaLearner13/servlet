@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>회원 가입창</title>
+<script type="text/javascript">
+	function fn_sendMember(){
+		var frmMember = document.frmMember;
+		var id = frmMember.id.value;
+		var pwd = frmMember.pwd.value;
+		var name = frmMember.name.value;
+		var email = frmMember.email.value;
+		
+		if(id.length == 0 || id == ""){
+			alert("enter id!");
+		}else if(pwd.length == 0||pwd == ""){
+			alert("enter pw!");
+		}else if(name.length == 0||name == ""){
+			alert("enter name!");
+		}else if(email.length == 0||email==""){
+			alert("enter email!");
+		}else{
+			frmMember.method = "post";
+			frmMember.method = "member3";
+			frmMember.submit();
+		}
+	}
+</script>
+</head>
+<body>
+
+
+
+</body>
+</html>
