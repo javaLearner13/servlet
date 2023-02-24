@@ -27,13 +27,14 @@
     <Manager pathname="" />
     
           <Resource
-     name="jdbc/oracle"
+     name="jdbc/shop_db"
      auth = "Container"
      type="javax.sql.DataSource"
-     driverClassName="oracle.jdbc.OracleDriver"
-     url="jdbc:oracle:thin:@localhost:1521:XE"
-     username="owen"
-     password="12345"
-     maxActive="50"
-     maxWait="-1" />
+     driverClassName="com.mysql.jdbc.Driver"
+     url="jdbc:mysql://localhost:3306/shop_db"
+     username="root"
+     password="Ilove13!#"
+     factory = "org.apache.tomcat.dbcp.dbcp2.BasicDataSourceFactory"
+     maxActive="500"
+     />
 </Context>

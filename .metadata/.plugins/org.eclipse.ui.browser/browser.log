@@ -41,3 +41,34 @@ Feb 21, 2023 15:59:07.991 [libprotobuf ERROR ..\..\third_party\protobuf\src\goog
 Feb 21, 2023 16:02:11.28 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
 Feb 21, 2023 16:15:43.352 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
 Feb 21, 2023 16:32:20.457 [8780:15348:0221/162631.254:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+
+Feb 22, 2023 10:35:15.698 NEW SESSION
+Feb 22, 2023 10:35:15.699 [11240:14212:0222/103515.686:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Feb 22, 2023 10:35:15.796 [11240:14212:0222/103515.796:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Feb 22, 2023 10:35:18.319 [11240:14212:0222/103518.319:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Feb 22, 2023 11:29:47.933 [11240:14212:0222/112947.932:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Feb 22, 2023 11:29:48.08 [11240:14212:0222/112948.008:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Feb 22, 2023 11:29:52.208 [11240:14212:0222/112952.208:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Feb 22, 2023 12:01:29.923 [11240:14212:0222/120129.922:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Feb 22, 2023 12:03:48.893 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+
+Feb 22, 2023 14:11:36.895 NEW SESSION
+Feb 22, 2023 14:11:36.895 [15112:7648:0222/141136.893:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+
+Feb 23, 2023 13:18:32.731 NEW SESSION
+Feb 23, 2023 13:18:32.731 [128:600:0223/131832.729:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by server).
+Feb 23, 2023 13:18:35.932 [128:600:0223/131835.932:ERROR:device_event_log_impl.cc(218)] [13:18:35.932] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 23, 2023 14:10:19.880 [128:600:0223/141019.878:ERROR:device_event_log_impl.cc(218)] [14:10:19.878] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Feb 23, 2023 16:57:26.427 NEW SESSION
+Feb 23, 2023 16:57:26.427 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+
+Feb 24, 2023 09:46:44.624 NEW SESSION
+Feb 24, 2023 09:46:44.624 [9364:5752:0224/094644.622:ERROR:device_event_log_impl.cc(218)] [09:46:44.622] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 24, 2023 10:56:17.108 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Feb 24, 2023 10:56:18.84 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Feb 24, 2023 10:56:18.973 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Feb 24, 2023 10:56:19.721 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Feb 24, 2023 12:43:36.557 [9364:1368:0224/124336.557:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Feb 24, 2023 12:43:36.672 [9364:1368:0224/124336.672:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -331
+Feb 24, 2023 14:11:10.424 [9364:1368:0224/141110.424:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2

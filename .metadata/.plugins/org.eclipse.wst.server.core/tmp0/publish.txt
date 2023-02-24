@@ -1,3 +1,4 @@
 #Tomcat publish data
-#Tue Feb 21 14:43:40 KST 2023
-org.eclipse.jst.jee.server\:pro07=E\:\\apache-tomcat-9\\wtpwebapps\\pro07
+#Fri Feb 24 15:44:45 KST 2023
+org.eclipse.jst.jee.server\:pro12=E\:\\apache-tomcat-9\\wtpwebapps\\pro12
+org.eclipse.jst.jee.server\:pro14=E\:\\apache-tomcat-9\\wtpwebapps\\pro14

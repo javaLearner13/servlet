@@ -7,4 +7,45 @@ forwarding:
 3. location (pro08.sec01.ex03 - /first3 /second3)
 4. dispatch
 
-pro09 - sec03 - ex04 not working
+pro09 - sec03 - ex04 not working?
+
+pro10 - sec02 - ex01 mapping... add weird texts at the end of url
+still functioning as an url
+
+filter..
+
+접속자수 표시..ch 10~
+
+로그인 관리자 예시 pro12 / login~result,result2,result3
+
+******** 시험점수 변환기 pro12 / scoreTest.html ~ scoreTest.jsp
+
+************* 구구단 pro12 / gugu.html~ gugu.jsp especially gugu2.jsp
+
+**** 이미지 for loop 출력
+	리스트
+		 pro12 / imageList.jsp
+
+**************** session 바인딩.. pro12/src/sec01.ex01/SessionTest.java
+  + webapp/test01/session1~2.jsp
+다른 브라우저 혹은 새 창에서 이름은 null로 출력됨.. 같은 세션이 아니므로
+
+******** applicaton 내장 객체에 데이터 바인딩 실습
+	test01/appTest1~2.jsp
+	다른 브라우저에서 출력했을때 session 저장 변수는 null로 출력되고
+	application 저장 변수는 그대로 출력된다.
+
+***** request 객체 포워딩 이용 test01/request1~2.jsp
+
+***out 활용 출력 방식 test01/out1~2.jsp
+
+*************** error 페이지 만들기! test02/add.html~.jsp~addException.jsp
+
+466 페이지 회원정보 조회하기 등 pro12 매우 중요. 아직 다 못봄.
+
+********** 회원가입창 개념 -> pro14-test01
+		c:set 등.. core기능들이 중요.. jsp 추구 스타일 (14.6.1 page 548~)
+
+********** test03....... member7
+
+****fmt.......test05...
